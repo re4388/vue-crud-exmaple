@@ -1,9 +1,11 @@
 ## A Vue CRUD practice
 
 ### DEMO
-<img src="https://files.benhu.info/2020/09/demo_vue_crud.gif" width="300"></img>
+
+see [video](https://drive.google.com/file/d/1cEBtpoqV_yjXW3IijAd90Tyhj_hi-bw9/view)
 
 ### Why?
+
 - for personal practice
 - What I Learned?
   - Vue single component file
@@ -11,6 +13,5 @@
   - customize dialog or modal
   - some css quirk
 
-
-- Note:
+* Note:
   - this App run up with my another backend project => [node.js + firebase realtimeDB](https://github.com/re4388/user-CRUD-Firebase-Realtime-db/blob/master/app.js)
