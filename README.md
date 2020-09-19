@@ -1,7 +1,7 @@
 ## A Vue CRUD practice
 
 ### DEMO
-<img src="https://files.benhu.info/2020/09/demo_vue_crud.gif" width="450" height="250"></img>
+<img src="https://files.benhu.info/2020/09/demo_vue_crud.gif" width="300"></img>
 
 ### Why?
 - for personal practice
