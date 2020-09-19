@@ -1,7 +1,8 @@
 ## A Vue CRUD practice
 
 ### DEMO
-<img src="https://files.benhu.info/2020/09/demo_vue_crud.gif" width="300"></img>
+<img src="https://files.benhu.info/2020/09/demo_vue_crud.gif" width="200"></img>
+![](https://files.benhu.info/2020/09/demo_vue_crud.gif | width=100)
 
 ### Why?
 - for personal practice
