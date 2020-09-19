@@ -1,24 +1,16 @@
-# hello
+## A Vue CRUD practice
 
-## Project setup
-```
-npm install
-```
+### DEMO
+<img src="https://files.benhu.info/2020/09/demo_vue_crud.gif" width="450" height="250"></img>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Why?
+- for personal practice
+- What I Learned?
+  - Vue single component file
+  - pass event down and emit event up
+  - customize dialog or modal
+  - some css quirk
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Note:
+  - this App run up with my another backend project => [node.js + firebase realtimeDB](https://github.com/re4388/user-CRUD-Firebase-Realtime-db/blob/master/app.js)

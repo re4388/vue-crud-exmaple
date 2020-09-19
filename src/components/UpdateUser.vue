@@ -7,7 +7,7 @@
             <div class="modal-header"></div>
             <h3>Update Form</h3>
             <div class="modal-body"></div>
-            <b-form inline class="mb-4">
+            <b-form inline class="mb-4 ml-3">
               <div>
                 <label class="mr-2" for="inline-form-input-name">Name</label>
                 <b-input
@@ -42,7 +42,7 @@
               </div>
             </b-form>
 
-            <div class="modal-footer">
+            <div class="modal-footer mr-4">
               <b-button variant="primary" @click="updateUser">Update</b-button>
               <b-button variant="danger" @click="$emit('close')"
                 >Close</b-button
